@@ -1,0 +1,13 @@
+name: project
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - requests
+  - transformers
+  - pytorch
+  - flask
+  - datasets
+  - jupyter=1.0.0
+  - jupyter_client<7.0.0
+
